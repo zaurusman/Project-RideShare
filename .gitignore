@@ -1,0 +1,8 @@
+.DS_Store
+Datasets/.DS_Store
+Datasets/Data_accidents_israel_by_year/.DS_Store
+Statistics/
+cleanData.csv
+py-googletrans/
+random_dataset*.csv
+simulated_trip_dataset_with_accidents.csv
